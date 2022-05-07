@@ -1,0 +1,412 @@
+* TODO Pump Six and Other Stories
+:PROPERTIES:
+:Custom_id: reading_bacigalupi08:_pump_six_other_stories
+:END:
+* TODO Zoo City
+:PROPERTIES:
+:Custom_id: reading_beukes10:_zoo_city
+:END:
+* TODO Art Inc. - The Essential Guide for Building Your Career as an Artist
+:PROPERTIES:
+:Custom_id: reading_congdon14:_art_inc
+:END:
+* TODO Pirate Cinema
+:PROPERTIES:
+:Custom_id: reading_doctorow12:_pirat_cinem
+:END:
+* TODO Almost Lost Arts: Traditional Crafts and the Artisans Keeping Them Alive
+:PROPERTIES:
+:Custom_id: reading_freidenrich19:_almos_lost_arts
+:END:
+* TODO Signal To Noise
+:PROPERTIES:
+:Custom_id: reading_gaiman92:_signal_to_noise
+:END:
+* TODO Art Made From Books - Altered, Sculpted, Carved, Transformed
+:PROPERTIES:
+:Custom_id: reading_heyenga13:_art_made_from_books_alter
+:END:
+* TODO Penny Arcade - Attack of the Bacon Robots
+:PROPERTIES:
+:Custom_id: reading_holkins05:_penny_arcad_attac_bacon_robot
+:END:
+* TODO Penny Arcade - Epic Legends of the Magic Sword Kings
+:PROPERTIES:
+:Custom_id: reading_holkins06:_penny_arcad_epic_legen_magic_sword_kings
+:END:
+* TODO Create Now!
+:PROPERTIES:
+:Custom_id: reading_johnson16:_creat_now
+:END:
+* TODO Invasion
+:PROPERTIES:
+:Custom_id: reading_lackey12:_invas
+:END:
+* TODO Stranger Things Happen
+:PROPERTIES:
+:Custom_id: reading_link01:_stran_thing_happen
+:END:
+* TODO Magic For Beginners
+:PROPERTIES:
+:Custom_id: reading_link05:_magic_for_begin
+:END:
+* TODO XKCD - Volume 0
+:PROPERTIES:
+:Custom_id: reading_munroe09:_xkcd_volum
+:END:
+* TODO Hello World! Computer Programming for Kids and Other Beginners
+:PROPERTIES:
+:Custom_id: reading_sande20:_hello_world
+:END:
+* TODO Old Man’s War
+:PROPERTIES:
+:Custom_id: reading_scalzi05:_old_mans_war
+:END:
+* TODO The Most Dangerous Game - A Saturday Morning Breakfast Cereal Collection
+:PROPERTIES:
+:Custom_id: reading_weiner11:_most_danger_game_satur_mornin
+:END:
+* TODO Save Yourself, Mammal! - A Saturday Morning Breakfast Cereal Collection
+:PROPERTIES:
+:Custom_id: reading_weiner11:_save_yours_mammal
+:END:
+* TODO Draw & Be Happy - Art Exercises to Bring You Joy
+:PROPERTIES:
+:Custom_id: reading_shaw18:_draw_be_happy_art_exerc
+:END:
+* TODO Ceramics - Contemporary Artists Working In Clay
+:PROPERTIES:
+:Custom_id: reading_singleton16:_ceram_contem_artis_workin_in_clay
+:END:
+* TODO Creative, Inc. - The Ultimate Guide to Running a Successful Freelance Business
+:PROPERTIES:
+:Custom_id: reading_ilasco10:_creat_inc
+:END:
+* TODO Creative Block
+:PROPERTIES:
+:Custom_id: reading_krysa14:_creat_block
+:END:
+* TODO Feck Perfuction
+:PROPERTIES:
+:Custom_id: reading_victore19:_feck_perfuc
+:END:
+* TODO You Know You’re a Writer When...
+:PROPERTIES:
+:Custom_id: reading_lara07:_you_know_youre_writer_when
+:END:
+* TODO We Inspire Me
+:PROPERTIES:
+:Custom_id: reading_pippins18:_we_inspir_me
+:END:
+* TODO Writing About Architecture - Mastering the Language of Buildings and Cities
+:PROPERTIES:
+:Custom_id: reading_lange12:_writin_about_archit_master_languag_build_cities
+:END:
+* TODO The Writer Says - Quotes, Quips, and Words of Wisdom
+:PROPERTIES:
+:Custom_id: reading_lippert17:_writer_says_quotes_quips_words_wisdom
+:END:
+* TODO The New Oil Painting - Your Essential Guide to Materials and Safe Practices
+:PROPERTIES:
+:Custom_id: reading_brooks21:_new_oil_paint_your_essen
+:END:
+* TODO No Plot? No Problem!
+:PROPERTIES:
+:Custom_id: reading_baty14:_no_plot
+:END:
+* TODO Make Your Art No Matter What
+:PROPERTIES:
+:Custom_id: reading_pickens21:_make_your_art_no_matter_what
+:END:
+* TODO How to Rule at Photography
+:PROPERTIES:
+:Custom_id: reading_harrell20:_how_rule_photog
+:END:
+* TODO Happiness is... 200 ways to be creative
+:PROPERTIES:
+:Custom_id: reading_swerling17:_happin
+:END:
+* TODO In Pursuit of Inspiration - Trust Your Instincts and Make More Art
+:PROPERTIES:
+:Custom_id: reading_dunn19:_in_pursuit_inspir_trust_your
+:END:
+* TODO How To Rule at Drawing
+:PROPERTIES:
+:Custom_id: reading_harrell20:_how_to_rule_drawin
+:END:
+* TODO How Your Story Sets You Free
+:PROPERTIES:
+:Custom_id: reading_box19:_how_your_story_sets_you_free
+:END:
+* TODO Pencils You Should Know
+:PROPERTIES:
+:Custom_id: reading_weaver20:_pencil_you_shoul_know
+:END:
+* TODO In Progress - See Inside a Lettering Artist’s Sketchbook and Process from Pencil to Vector
+:PROPERTIES:
+:Custom_id: reading_hische15:_in_progr_see_insid_letter
+:END:
+* TODO Pep Talks for Writers
+:PROPERTIES:
+:Custom_id: reading_faulkner17:_pep_talks_writer
+:END:
+* TODO Drawn From Life - Tips and Tricks for Contemporary Life Drawing
+:PROPERTIES:
+:Custom_id: reading_birch17:_drawn_from_life_tips_trick
+:END:
+* TODO How Art Can Make You Happy
+:PROPERTIES:
+:Custom_id: reading_payne17:_how_art_can_make_you_happy
+:END:
+* TODO How To Make Hand-Drawn Maps
+:PROPERTIES:
+:Custom_id: reading_cann18:_how_to_make_hand_drawn_maps
+:END:
+* TODO Find Your Artistic Voice
+:PROPERTIES:
+:Custom_id: reading_congdon19:_find_your_artis_voice
+:END:
+* TODO Embroidered Life - The Art of Sarah K. Benning
+:PROPERTIES:
+:Custom_id: reading_barnes19:_embroid_life_art_sarah_k
+:END:
+* TODO Creative Pep Talk - Inspiration From 50 Artists
+:PROPERTIES:
+:Custom_id: reading_miller17:_creat_pep_talk_inspir_from_artis
+:END:
+* TODO Artists, Writers, Thinkers, Dreamers
+:PROPERTIES:
+:Custom_id: reading_hancock14:_artis_writer_think_dream
+:END:
+* TODO Get Programming with Javascript
+:PROPERTIES:
+:Custom_id: reading_larsen16:_get_progr_javas
+:END:
+* TODO iOS Development with Swift
+:PROPERTIES:
+:Custom_id: reading_grummitt18:_devel_swift
+:END:
+* TODO 200+ Ways To Protect Your Privacy
+:PROPERTIES:
+:Custom_id: reading_rogers19:_ways_to_protec_your_privac
+:END:
+* TODO 365 Ways To Boost Your Metabolism
+:PROPERTIES:
+:Custom_id: reading_laferriere10:_ways_to_boost_your_metab
+:END:
+* TODO Your Guide To Public Speaking
+:PROPERTIES:
+:Custom_id: reading_hennessey19:_your_guide_to_public_speak
+:END:
+* TODO Brain Hacks - 200+ Ways To Boost Your Brain Power
+:PROPERTIES:
+:Custom_id: reading_dean18:_brain_hacks_ways_to_boost
+:END:
+* TODO How To Make Small Talk
+:PROPERTIES:
+:Custom_id: reading_wadsworth17:_how_to_make_small_talk
+:END:
+* TODO Healthiest You Ever
+:PROPERTIES:
+:Custom_id: reading_lester12:_healt_you_ever
+:END:
+* TODO Happiness Hacks
+:PROPERTIES:
+:Custom_id: reading_lester18:_happin_hacks
+:END:
+* TODO Happiest You Ever
+:PROPERTIES:
+:Custom_id: reading_lester12:_happies_you_ever
+:END:
+* TODO 365 Ways To Live The Law of Attraction
+:PROPERTIES:
+:Custom_id: reading_lester09:_ways_to_live_law_attrac
+:END:
+* TODO 365 Ways To Live Green
+:PROPERTIES:
+:Custom_id: reading_mcdilda08:_ways_to_live_green
+:END:
+* TODO 365 Ways To Live Cheap
+:PROPERTIES:
+:Custom_id: reading_hamm09:_ways_to_live_cheap
+:END:
+* TODO 365 Ways To Get A Good Night’s Sleep
+:PROPERTIES:
+:Custom_id: reading_kotler09:_ways_to_get_good_night_sleep
+:END:
+* TODO Gut Health Hacks
+:PROPERTIES:
+:Custom_id: reading_boyers21:_gut_healt_hacks
+:END:
+* TODO Forbidden Knowledge
+:PROPERTIES:
+:Custom_id: reading_brooks19:_forbid_knowl
+:END:
+* TODO Money Hacks
+:PROPERTIES:
+:Custom_id: reading_rowan20:_money_hacks
+:END:
+* TODO Cleaning Hacks
+:PROPERTIES:
+:Custom_id: reading_flowers19:_clean_hacks
+:END:
+* TODO The Big Book of Words You Should Know To Sound Smart
+:PROPERTIES:
+:Custom_id: reading_bly16:_big_book_words_you_shoul
+:END:
+* TODO Productivity Hacks
+:PROPERTIES:
+:Custom_id: reading_price18:_produc_hacks
+:END:
+* TODO Organization Hacks
+:PROPERTIES:
+:Custom_id: reading_higgins17:_organ_hacks
+:END:
+* TODO Life Hacks
+:PROPERTIES:
+:Custom_id: reading_bradford14:_life_hacks
+:END:
+* TODO Keto Diet Hacks
+:PROPERTIES:
+:Custom_id: reading_boyers20:_keto_diet_hacks
+:END:
+* TODO How To Overcome Shyness
+:PROPERTIES:
+:Custom_id: reading_gillet17:_how_to_overc_shynes
+:END:
+* TODO How To Back Up a Trailer... and 101 Other Things Every Real Guy Should Know
+:PROPERTIES:
+:Custom_id: reading_anderson08:_how_to_back_up_trail
+:END:
+* TODO College Hacks
+:PROPERTIES:
+:Custom_id: reading_bradford15:_colleg_hacks
+:END:
+* TODO The Art of Manliness
+:PROPERTIES:
+:Custom_id: reading_mckay09:_art_manlin
+:END:
+* TODO Anti-aging Hacks
+:PROPERTIES:
+:Custom_id: reading_asp19:_anti_hacks
+:END:
+* TODO 365 Ways To Reduce Stress
+:PROPERTIES:
+:Custom_id: reading_adamson09:_ways_to_reduc_stres
+:END:
+* TODO Holiday Hacks
+:PROPERTIES:
+:Custom_id: reading_bradford18:_holid_hacks
+:END:
+* TODO Work From Home Hacks
+:PROPERTIES:
+:Custom_id: reading_frost20:_work_from_home_hacks
+:END:
+* TODO What Do I Do If...?
+:PROPERTIES:
+:Custom_id: reading_grzymkowski15:_what_do_i_do_if
+:END:
+* TODO Wedding Hacks
+:PROPERTIES:
+:Custom_id: reading_eisenhart20:_weddin_hacks
+:END:
+* TODO Walt Disney World Hacks
+:PROPERTIES:
+:Custom_id: reading_veness19:_walt_disney_world_hacks
+:END:
+* TODO Travel Hacks
+:PROPERTIES:
+:Custom_id: reading_bradford21:_travel_hacks
+:END:
+* TODO Survival Hacks
+:PROPERTIES:
+:Custom_id: reading_stewart16:_surviv_hacks
+:END:
+* TODO Supercharge with Superfoods - 365 Ways to Maximise Your Health
+:PROPERTIES:
+:Custom_id: reading_quigley10:_super_super_ways_maxim_your_healt
+:END:
+* TODO C++ A Beginner’s Guide
+:PROPERTIES:
+:Custom_id: reading_schildt04:_c_begin_guide
+:END:
+* TODO The Widower’s Wife
+:PROPERTIES:
+:Custom_id: reading_holahan16:_widow_wife
+:END:
+* TODO When You Find Me
+:PROPERTIES:
+:Custom_id: reading_vernon18:_when_you_find_me
+:END:
+* TODO When She’s Gone - A Thriller
+:PROPERTIES:
+:Custom_id: reading_palmer16:_when_shes_gone_thril
+:END:
+* TODO The Coroner
+:PROPERTIES:
+:Custom_id: reading_dornbush18:_coron
+:END:
+* TODO Storm of Secrets
+:PROPERTIES:
+:Custom_id: reading_marion19:_storm_secret
+:END:
+* TODO One Little Secret
+:PROPERTIES:
+:Custom_id: reading_holahan19:_one_littl_secret
+:END:
+* TODO Mother Knows Best - A Novel
+:PROPERTIES:
+:Custom_id: reading_peikoff19:_mother_knows_best_novel
+:END:
+* TODO Lies She Told
+:PROPERTIES:
+:Custom_id: reading_holahan17:_lies_she_told
+:END:
+* TODO Last Girl Gone - A Laura Chambers Mystery
+:PROPERTIES:
+:Custom_id: reading_hetherton18:_last_girl_gone_laura_chamb_myster
+:END:
+* TODO In The Valley of The Devil
+:PROPERTIES:
+:Custom_id: reading_early18:_in_valley_devil
+:END:
+* TODO House of Ashes - A Haunted Bluffs Mystery
+:PROPERTIES:
+:Custom_id: reading_marion18:_house_ashes_haunt_bluff_myster
+:END:
+* TODO Heaven’s Crooked Finger - An Earl Marcus Mystery
+:PROPERTIES:
+:Custom_id: reading_early17:_heaven_crook_finger_earl_marcus_myster
+:END:
+* TODO #Fashion Victim - A Novel
+:PROPERTIES:
+:Custom_id: reading_akhtar18:_fashion_victim_novel
+:END:
+* TODO Echoes of the Fall
+:PROPERTIES:
+:Custom_id: reading_early19:_echoes_fall
+:END:
+* TODO Dark Turns
+:PROPERTIES:
+:Custom_id: reading_holahan15:_dark_turns
+:END:
+* TODO Crossroad - A Mystery
+:PROPERTIES:
+:Custom_id: reading_cameron19:_cross_myster
+:END:
+* TODO Come And Get Me - A Caitlin Bergman Novel
+:PROPERTIES:
+:Custom_id: reading_norman19:_come_and_get_me_caitl_bergm_novel
+:END:
+* TODO Best Kept Secrets - A Novel
+:PROPERTIES:
+:Custom_id: reading_phillips19:_best_kept_secret_novel
+:END:
+* TODO Beijing Red - A Nick Foley Thriller
+:PROPERTIES:
+:Custom_id: reading_ryan16:_beijin_red_nick_foley_thril
+:END:
+* TODO All That’s Bright And Gone - A Novel
+:PROPERTIES:
+:Custom_id: reading_nellums19:_all_thats_brigh_and_gone_novel
+:END:
