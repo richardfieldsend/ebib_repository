@@ -410,3 +410,59 @@
 :PROPERTIES:
 :Custom_id: reading_nellums19:_all_thats_brigh_and_gone_novel
 :END:
+* TODO Effective C - An Introduction to Professional C Programming
+:PROPERTIES:
+:Custom_id: reading_seacord20:_effec_c_introd_profes_c_progr
+:END:
+* TODO Powershell For Sysadmins - Workflow Automation Made Easy
+:PROPERTIES:
+:Custom_id: reading_bertram20:_power_for_sysad_workf_autom_made_easy
+:END:
+* TODO Bayesian Statistics The Fun Way
+:PROPERTIES:
+:Custom_id: reading_kurt19:_bayes_statis_fun_way
+:END:
+* TODO Learn Java The Easy Way - A Hands-On Introduction To Programming
+:PROPERTIES:
+:Custom_id: reading_payne18:_learn_java_easy_way_hands
+:END:
+* TODO The Secret Life of Programs - Understand Computers - Craft Better Code
+:PROPERTIES:
+:Custom_id: reading_steinhart19:_secret_life_progr_under_comput
+:END:
+* TODO The Rust Programming Language
+:PROPERTIES:
+:Custom_id: reading_klabnik19:_rust_progr_languag
+:END:
+* TODO C++ Crash Course - A Fast-Paced Introduction
+:PROPERTIES:
+:Custom_id: reading_lospinoso19:_c_crash_cours_fast_paced_introd
+:END:
+* TODO Write Great Code - Thinking Low Level, Writing High Level
+:PROPERTIES:
+:Custom_id: reading_hyde20:_write_great_code_think_low
+:END:
+* TODO Wicked Cool Shell Scripts - 101 Scripts For Linux, OS X and Unix Systems
+:PROPERTIES:
+:Custom_id: reading_taylor17:_wicked_cool_shell_scrip_scrip
+:END:
+* TODO Python Playground - Geeky Projects for the Curious Programmer
+:PROPERTIES:
+:Custom_id: reading_venkitachalam16:_python_playg_geeky_projec_curious_progr
+:END:
+* TODO Write Great Code - Understanding The Machine
+:PROPERTIES:
+:Custom_id: reading_hyde20:_write_great_code_under_machin
+:END:
+* TODO Think Like A Programmer - An Introduction To Creative Problem Solving
+:PROPERTIES:
+:Custom_id: reading_spraul12:_think_like_progr_introd_to
+:END:
+* TODO Write Great Code - Engineering Software
+:PROPERTIES:
+:Custom_id: reading_hyde20:_write_great_code_engin_softw
+:END:
+* TODO Impractical Python Projects - Playful Programming Activities To Make You Smarter
+:PROPERTIES:
+:Custom_id: reading_vaughan19:_imprac_python_projec_playf_progr
+:END:
